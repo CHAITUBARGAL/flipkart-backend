@@ -1,0 +1,5 @@
+/node_modules
+/config/app.env
+
+# local env files
+.env*.local
